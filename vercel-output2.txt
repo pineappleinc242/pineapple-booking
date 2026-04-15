@@ -1,0 +1,5 @@
+Retrieving project…
+Deploying getvisamate-makers-projects/pineapple-booking
+Uploading [--------------------] (0.0B/683.7MB)
+Uploading [=====---------------] (170.9MB/683.7MB)
+Uploading [==========----------] (341.9MB/683.7MB)
