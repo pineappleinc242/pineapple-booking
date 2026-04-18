@@ -11,87 +11,33 @@ const services = [
     description: 'Elevate your listings with high-resolution, magazine-quality imagery. We meticulously capture the distinct architecture, ambient lighting, and welcoming spaces of your property to ensure a striking first impression that instantly captivates prospective buyers.',
     features: ['High-resolution HDR images', 'Professional sky replacement', 'Next-day turnaround', 'Commercial usage rights'],
     galleryItems: [
-      { type: 'image', src: '/optimized-media/DSC00107.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00108-HDR.jpg' },
-      { type: 'image', src: '/optimized-media/DSC00108.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00109.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00110.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00114.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00115-HDR.jpg' },
-      { type: 'image', src: '/optimized-media/DSC00117.jpg' },
-      { type: 'image', src: '/optimized-media/DSC00118.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00119.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00119.jpg' },
-      { type: 'image', src: '/optimized-media/DSC00124.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00125-HDR.jpg' },
-      { type: 'image', src: '/optimized-media/DSC00125.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00126.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00128-HDR.jpg' },
-      { type: 'image', src: '/optimized-media/DSC00131.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00132-HDR.jpg' },
-      { type: 'image', src: '/optimized-media/DSC00132.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00135.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00136-HDR.jpg' },
-      { type: 'image', src: '/optimized-media/DSC00137.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00138.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00138.jpg' },
-      { type: 'image', src: '/optimized-media/DSC00139.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00142-HDR.jpg' },
-      { type: 'image', src: '/optimized-media/DSC00144.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00144.jpg' },
-      { type: 'image', src: '/optimized-media/DSC00145.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00146.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00149.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00151.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00152-HDR.jpg' },
-      { type: 'image', src: '/optimized-media/DSC00159.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00162.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00163.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00168.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00168.jpg' },
       { type: 'image', src: '/optimized-media/DSC00170.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00171.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00178.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00185.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00186.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00190.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00191.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00192.jpg' },
-      { type: 'image', src: '/optimized-media/DSC00193.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00196.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00197.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00199.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00200.jpeg' },
+      { type: 'image', src: '/optimized-media/raw-photos-bathroom.jpg' },
       { type: 'image', src: '/optimized-media/DSC00200.jpg' },
-      { type: 'image', src: '/optimized-media/DSC00201.jpeg' },
+      { type: 'image', src: '/optimized-media/DSC00191.jpeg' },
+      { type: 'image', src: '/optimized-media/kitchen-dining-hdr.jpg' },
+      { type: 'image', src: '/optimized-media/light-pole-hdr.jpg' },
+      { type: 'image', src: '/optimized-media/raw-photos-sun-room.jpg' },
+      { type: 'image', src: '/optimized-media/red-bed.jpg' },
+      { type: 'image', src: '/optimized-media/v-style.jpeg' },
+      { type: 'image', src: '/optimized-media/kitchen-hdr.jpg' },
+      { type: 'image', src: '/optimized-media/KarahbarMasterBed.jpeg' },
+      { type: 'image', src: '/optimized-media/ourstory.jpg' },
+      { type: 'image', src: '/optimized-media/DSC00192.jpg' },
+      { type: 'image', src: '/optimized-media/DSC00168.jpg' },
+      { type: 'image', src: '/optimized-media/DSC00178.jpeg' },
       { type: 'image', src: '/optimized-media/DSC00203.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00203.jpg' },
       { type: 'image', src: '/optimized-media/DSC00208.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00212.jpg' },
-      { type: 'image', src: '/optimized-media/DSC00226.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00227.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00231.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00232.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00241.jpeg' },
       { type: 'image', src: '/optimized-media/DSC00243.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00247.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00254.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00258.jpeg' },
       { type: 'image', src: '/optimized-media/DSC00260.jpeg' },
       { type: 'image', src: '/optimized-media/DSC00262.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00266.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00267.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00270.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00271.jpeg' },
-      { type: 'image', src: '/optimized-media/DSC00274.jpeg' },
       { type: 'image', src: '/optimized-media/DSC00282.jpeg' },
       { type: 'image', src: '/optimized-media/KarabarOutDoorLiving.jpeg' },
       { type: 'image', src: '/optimized-media/KarahbarLivingRoom.jpeg' },
-      { type: 'image', src: '/optimized-media/KarahbarMasterBed.jpeg' },
-      { type: 'image', src: '/optimized-media/My_First_Property_DSC00144_01-04-26_15_11.jpeg' },
-      { type: 'image', src: '/optimized-media/Property_1B6A_DSC00138_01-04-26_15_09.jpeg' },
       { type: 'image', src: '/optimized-media/Property_B34F_DSC00142-HDR_01-04-26_14_54.jpeg' },
-      { type: 'image', src: '/optimized-media/Property_B3A4_DSC00108-HDR_01-04-26_13_16.jpeg' }
+      { type: 'image', src: '/optimized-media/Property_B3A4_DSC00108-HDR_01-04-26_13_16.jpeg' },
+      { type: 'image', src: '/optimized-media/bedroom-compressed.jpg' },
+      { type: 'image', src: '/optimized-media/DSC00125-HDR.jpg' }
     ]
   },
   {
@@ -99,22 +45,34 @@ const services = [
     description: 'Deliver an immersive viewing experience through cinematic property storytelling. Our videography perfectly highlights the flow and lifestyle of every home with smooth dynamic transitions, modern styling, and professionally graded aesthetics.',
     features: ['4K ultra-HD production', 'Professional color grading', 'Licensed music tracks', 'Social media optimized formats'],
     galleryItems: [
-      { type: 'video', src: '/anthony-house-final.mp4' },
-      { type: 'video', src: '/anthony-inlaw-inc.mp4' },
-      { type: 'video', src: '/chloe-inlaws.mp4' }
+      { type: 'video', src: '/optimized-media/anthony-house-final.mp4' },
+      { type: 'video', src: '/optimized-media/anthony-inlaw-inc.mp4' },
+      { type: 'video', src: '/optimized-media/chloe-inlaws.mp4' },
+      { type: 'video', src: '/optimized-media/videography4_optimized.mp4' }
     ]
   },
   {
     title: 'Drone / Aerial',
     description: 'Provide an unparalleled perspective of the property and its surrounding environment. Our FAA-certified aerial media captures the true scale, contextual landscapes, and sweeping views that ground-level traditional photography simply cannot match.',
     features: ['Licensed & insured pilots', '4K aerial footage', 'Property line outlines', 'Neighborhood contextual shots'],
-    imageSrc: 'https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&q=80&w=1200'
+    galleryItems: [
+      { type: 'video', src: '/optimized-media/dji_drone_optimized.mp4' },
+      { type: 'video', src: '/optimized-media/dji_drone_optimized2.mp4' },
+      { type: 'video', src: '/optimized-media/dji_drone_optimized3.mp4' },
+      { type: 'image', src: '/optimized-media/dji_drone_optimized4.jpg' },
+      { type: 'image', src: '/optimized-media/dji_drone_optimized5.jpg' },
+      { type: 'image', src: '/optimized-media/dji_drone_optimized6.jpg' }
+    ]
   },
   {
     title: 'Floor Plans',
     description: 'Empower buyers with accurate layouts and an easy-to-understand flow of the property. Our precise and clean architectural floor plans provide the exact structural insight needed to envision a future in the space.',
     features: ['Accurate laser measurements', '2D & 3D options', 'Fixed furniture included', 'PDF & JPG formats'],
-    imageSrc: 'https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&q=80&w=1200'
+    galleryItems: [
+      { type: 'image', src: '/optimized-media/floor-plan1.png' },
+      { type: 'image', src: '/optimized-media/floor-plan2.png' },
+      { type: 'image', src: '/optimized-media/floor-plan3.png' }
+    ]
   }
 ]
 
@@ -123,12 +81,23 @@ function GalleryPlaceholder({ items }: { items: any[] }) {
   const [currentIndex, setCurrentIndex] = useState(0)
 
   useEffect(() => {
-    if (items.length <= 1) return;
+    if (!items || items.length <= 1) return;
     const timer = setInterval(() => {
       setCurrentIndex((prev) => (prev + 1) % items.length)
     }, 3500)
     return () => clearInterval(timer)
-  }, [items.length])
+  }, [items?.length])
+
+  if (!items || items.length === 0) {
+    return (
+      <div className="flex flex-col items-center justify-center h-full w-full opacity-60">
+        <svg className="w-12 h-12 mb-2 text-white/40" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z" />
+        </svg>
+        <p className="text-white/40 text-sm font-medium tracking-wide uppercase">Media Coming Soon</p>
+      </div>
+    );
+  }
 
   return (
     <div className="relative w-full h-full">
@@ -236,31 +205,21 @@ export default function Services() {
                   </div>
                 </div>
 
-                {/* Media Side */}
+                  {/* Media Side */}
                 <div className="flex-1 w-full relative">
-                  {service.galleryItems ? (
+                  {service.galleryItems && service.galleryItems.length > 0 ? (
                      <div 
                         className="aspect-[4/3] w-full bg-neutral-900 rounded-2xl flex border border-neutral-800 items-center justify-center shadow-lg relative overflow-hidden group cursor-pointer"
                         onClick={() => openGallery(service.galleryItems!)}
                      >
                         <GalleryPlaceholder items={service.galleryItems} />
-                        
                      </div>
                   ) : (
                      <div className="aspect-[4/3] w-full bg-neutral-900 rounded-2xl flex border border-neutral-800 items-center justify-center shadow-lg relative overflow-hidden group">
-                        <Image
-                           src={service.imageSrc as string}
-                           alt={service.title}
-                           fill
-                           className="object-cover group-hover:scale-105 transition-transform duration-700 opacity-80 group-hover:opacity-100"
-                           sizes="(max-width: 768px) 100vw, 50vw"
-                        />
-                        
+                           <GalleryPlaceholder items={[]} />
                      </div>
                   )}
-                </div>
-
-              </div>
+                </div>              </div>
             );
           })}
         </div>
@@ -283,24 +242,32 @@ export default function Services() {
 
       {/* Gallery Modal */}
       {activeGallery && (
-        <div className="fixed inset-0 z-[100] bg-black/95 backdrop-blur-md flex items-center justify-center p-4 md:p-8 animate-fade-in-scale">
+        <div 
+          className="fixed inset-0 z-[100] bg-black/95 backdrop-blur-md flex items-center justify-center p-4 md:p-8 animate-fade-in-scale"
+          onClick={closeGallery}
+        >
           <button 
-            onClick={closeGallery}
-            className="absolute top-6 right-6 text-white/60 hover:text-white p-2 bg-white/10 rounded-full hover:bg-white/20 transition-colors z-50"
+            onClick={(e) => { e.stopPropagation(); closeGallery(); }}
+            className="absolute top-6 right-6 flex items-center gap-2 text-white/80 hover:text-white px-4 py-2 bg-white/10 rounded-full hover:bg-white/20 transition-colors z-50 text-sm font-semibold tracking-wide"
             aria-label="Close gallery"
           >
-            <svg className="w-8 h-8" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" /></svg>
+            <span>Close Gallery</span>
+            <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" /></svg>
           </button>
 
           {isListView && (
-            <div className="w-full h-full pt-16 px-4 md:px-12 overflow-y-auto">
+            <div 
+              className="w-full h-full pt-16 px-4 md:px-12 overflow-y-auto"
+              onClick={(e) => e.stopPropagation()}
+            >
               <h2 className="text-white text-3xl font-heading mb-8 text-center tracking-widest uppercase">Gallery Overview</h2>
               <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 max-w-7xl mx-auto pb-20">
                 {activeGallery.map((item, idx) => (
                   <div 
                     key={idx} 
                     className="relative aspect-square cursor-pointer overflow-hidden rounded-xl border border-white/20 hover:border-white transition-all group shadow-xl"
-                    onClick={() => {
+                    onClick={(e) => {
+                        e.stopPropagation();
                         setCurrentGalleryIndex(idx);
                         setIsListView(false);
                     }}
@@ -320,7 +287,7 @@ export default function Services() {
             <>
               {/* Back to List Button */}
               <button 
-                onClick={() => setIsListView(true)}
+                onClick={(e) => { e.stopPropagation(); setIsListView(true); }}
                 className="absolute top-6 left-6 text-white/60 hover:text-white px-4 py-2 bg-white/10 rounded-full hover:bg-white/20 transition-colors z-50 text-sm font-semibold tracking-wide flex items-center gap-2"
                 aria-label="Back to List"
               >
@@ -328,20 +295,24 @@ export default function Services() {
                 Grid View
               </button>
 
-              <div className="relative w-full max-w-6xl aspect-video rounded-xl overflow-hidden flex items-center justify-center shadow-2xl border-none h-full max-h-[90vh]">
+              <div 
+                className="relative w-full max-w-6xl flex items-center justify-center h-full max-h-[90vh]"
+              >
                  {activeGallery[currentGalleryIndex].type === 'video' ? (
                     <video 
                       key={activeGallery[currentGalleryIndex].src} // Forces video remount on index change
                       src={activeGallery[currentGalleryIndex].src}
                       controls
                       autoPlay
-                      className="w-full h-full object-contain"
+                      className="max-w-full max-h-full object-contain rounded-xl shadow-2xl cursor-default"
+                      onClick={(e) => e.stopPropagation()}
                     />
                  ) : (
                     <img 
                       src={activeGallery[currentGalleryIndex].src}
                       alt={`Gallery Image ${currentGalleryIndex + 1}`}
-                      className="object-contain w-full h-full"
+                      className="max-w-full max-h-full object-contain rounded-xl shadow-2xl cursor-default"
+                      onClick={(e) => e.stopPropagation()}
                     />
                  )}
               </div>
@@ -349,19 +320,19 @@ export default function Services() {
               {activeGallery.length > 1 && (
                  <>
                    <button 
-                     onClick={prevItem}
+                     onClick={(e) => { e.stopPropagation(); prevItem(); }}
                      className="absolute left-4 md:left-12 text-white/60 hover:text-white p-4 bg-white/5 rounded-full hover:bg-white/20 transition-colors backdrop-blur-md"
                    >
                      <svg className="w-8 h-8" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" /></svg>
                    </button>
                    <button 
-                     onClick={nextItem}
+                     onClick={(e) => { e.stopPropagation(); nextItem(); }}
                      className="absolute right-4 md:right-12 text-white/60 hover:text-white p-4 bg-white/5 rounded-full hover:bg-white/20 transition-colors backdrop-blur-md"
                    >
                      <svg className="w-8 h-8" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" /></svg>
                    </button>
 
-                   <div className="absolute bottom-8 left-1/2 -translate-x-1/2 px-6 py-2 bg-black/60 rounded-full border border-white/10 text-white/80 font-medium tracking-widest text-sm backdrop-blur-md">
+                   <div className="absolute bottom-8 left-1/2 -translate-x-1/2 px-6 py-2 bg-black/60 rounded-full border border-white/10 text-white/80 font-medium tracking-widest text-sm backdrop-blur-md pointer-events-none">
                      {currentGalleryIndex + 1} / {activeGallery.length}
                    </div>
                  </>

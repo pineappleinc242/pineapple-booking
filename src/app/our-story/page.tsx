@@ -4,15 +4,15 @@ import { Button } from '@/components/Button'
 
 export default function OurStory() {
   return (
-    <div className="min-h-screen bg-black py-16">
+    <div className="min-h-screen bg-black pt-2 pb-16 md:pt-4 -mt-2">
       <div className="container mx-auto px-4 max-w-6xl">
         {/* Story Section */}
-        <div className="bg-neutral-900 rounded-3xl p-8 md:p-12 lg:p-16 shadow-xl border border-neutral-800/60 mb-16 animate-fade-in-scale">
-          <div className="flex flex-col md:flex-row items-center gap-12 lg:gap-16">
+        <div className="bg-neutral-900 rounded-3xl p-6 md:p-10 lg:p-12 shadow-xl border border-neutral-800/60 mb-16 animate-fade-in-scale">
+          <div className="flex flex-col md:flex-row items-stretch gap-12 lg:gap-16">
             {/* Image Side (Left) */}
-            <div className="w-full md:w-1/2 relative aspect-[4/5] rounded-2xl overflow-hidden border border-neutral-800/50 shadow-inner">
+            <div className="w-full md:w-1/2 relative min-h-[400px] lg:min-h-[650px] rounded-2xl overflow-hidden border border-neutral-800/50 shadow-inner">
               <Image
-                src="/optimized-media/ourstory.jpg"
+                src="/optimized-media/light-pole-hdr.jpg"
                 alt="Our Story - Pineapple Inc. Studios"
                 fill
                 className="object-cover opacity-90 hover:opacity-100 transition-opacity duration-500"

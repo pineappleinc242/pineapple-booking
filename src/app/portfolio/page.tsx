@@ -3,40 +3,22 @@ import Image from 'next/image'
 
 const portfolioItems = [
   {
-    title: 'Luxury Estate Tour',
-    description: 'Cinematic video tour and twilight photography for a $5M listed property.',
-    category: 'Videography',
-    imageUrl: 'https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80'
-  },
-  {
-    title: 'Modern Development',
-    description: 'Architectural photography focusing on clean lines and natural light.',
+    title: 'Peel and Reveal 1',
+    description: 'Transforming property aesthetics with before-and-after visual contrast.',
     category: 'Photography',
-    imageUrl: 'https://images.unsplash.com/photo-1600607686527-6fb886090705?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80'
+    imageUrl: '/optimized-media/peel-and-reveal-1.jpg'
   },
   {
-    title: 'Coastal Aerials',
-    description: 'High-altitude drone photography showcasing property proximity to the ocean.',
-    category: 'Drone Services',
-    imageUrl: 'https://images.unsplash.com/photo-1512453979798-5ea266f8880c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80'
-  },
-  {
-    title: 'Urban Penthouse',
-    description: 'Interior design media package highlighting premium finishes.',
+    title: 'Peel and Reveal 2',
+    description: 'A striking showcase of property progression and architectural details.',
     category: 'Photography',
-    imageUrl: 'https://images.unsplash.com/photo-1600566753086-00f18efc204b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80'
+    imageUrl: '/optimized-media/peel-and-reveal-2.jpg'
   },
   {
-    title: 'Realtor Branding',
-    description: 'Agent introduction video and social media content assets.',
-    category: 'Videography',
-    imageUrl: 'https://images.unsplash.com/photo-1622866306950-81d170977411?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80'
-  },
-  {
-    title: 'Commercial Space',
-    description: 'Wide-angle photography and 3D virtual tour for a new retail lease.',
-    category: 'Virtual Tours',
-    imageUrl: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80'
+    title: 'Peel and Reveal 3',
+    description: 'Capturing the full narrative of a property with stunning high-res imagery.',
+    category: 'Photography',
+    imageUrl: '/optimized-media/peel-and-reveal-3.jpg'
   }
 ]
 
@@ -49,7 +31,7 @@ export default function Portfolio() {
         <div className="mb-16 text-center animate-fade-in-up">
           <h1 className="text-4xl md:text-5xl text-white mb-4 font-heading tracking-tight"><span className="font-normal">Peel and </span><span className="font-bold">Reveal</span></h1>
           <p className="text-lg text-white/70 max-w-2xl mx-auto">
-            Explore our recent work and see how we elevate property marketing with cinematic visuals.
+            We specialize in premium virtual styling, seamlessly transforming anything from a single room to an entire home.
           </p>
         </div>
 

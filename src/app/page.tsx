@@ -4,14 +4,20 @@ import React, { useEffect, useState } from 'react'
 import Link from 'next/link'
 
 const HERO_IMAGES = [
-  "/optimized-media/DSC00108-HDR.jpg",
-  "/optimized-media/DSC00142-HDR.jpg",
-  "/optimized-media/KarabarOutDoorLiving.jpeg",
-  "/optimized-media/KarahbarLivingRoom.jpeg",
-  "/optimized-media/DSC00125-HDR.jpg",
-  "/optimized-media/DSC00136-HDR.jpg",
-  "/optimized-media/DSC00152-HDR.jpg",
-  "/optimized-media/KarahbarMasterBed.jpeg"
+  "/optimized-media/DSC00170.jpeg",
+  "/optimized-media/raw-photos-bathroom.jpg",
+  "/optimized-media/DSC00200.jpg",
+  "/optimized-media/DSC00191.jpeg",
+  "/optimized-media/kitchen-dining-hdr.jpg",
+  "/optimized-media/light-pole-hdr.jpg",
+  "/optimized-media/raw-photos-sun-room.jpg",
+  "/optimized-media/red-bed.jpg",
+  "/optimized-media/v-style.jpeg",
+  "/optimized-media/kitchen-hdr.jpg",
+  "/optimized-media/KarahbarMasterBed.jpeg",
+  "/optimized-media/ourstory.jpg",
+  "/optimized-media/DSC00192.jpg",
+  "/optimized-media/DSC00125-HDR.jpg"
 ];
 
 export default function Home() {

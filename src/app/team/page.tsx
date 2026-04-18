@@ -38,9 +38,9 @@ export default function Team() {
                   />
                 </div>
                 <h3 className="text-xl font-bold text-white font-heading">Ritik Kaushal</h3>
-                <p className="text-xs uppercase tracking-widest text-white/50 font-semibold mb-3">Operations</p>
+                <p className="text-xs uppercase tracking-widest text-white/50 font-semibold mb-3">Lead Videographer</p>
                 <p className="text-white/60 text-sm max-w-[200px] font-light leading-relaxed">
-                  Ritik manages the day-to-day operations seamlessly, ensuring that every project runs on schedule and meets our high standards.
+                  Crafting cinematic journeys. Ritik captures the flow, warmth, and emotion of a space, seamlessly translating the heart and soul of your home into motion.
                 </p>
               </div>
 
@@ -54,9 +54,9 @@ export default function Team() {
                   />
                 </div>
                 <h3 className="text-xl font-bold text-white font-heading">Chloe Pragt</h3>
-                <p className="text-xs uppercase tracking-widest text-white/50 font-semibold mb-3">Creative</p>
+                <p className="text-xs uppercase tracking-widest text-white/50 font-semibold mb-3">Lead Photographer</p>
                 <p className="text-white/60 text-sm max-w-[200px] font-light leading-relaxed">
-                  Chloe brings visual concepts to life with an eye for detail, shaping the aesthetic that defines our studio's distinct style.
+                  Mastering the still frame. Chloe uses light and flawless composition to reveal the true architectural character, heart, and soul of every property.
                 </p>
               </div>
             </div>
@@ -73,7 +73,7 @@ export default function Team() {
               <h3 className="text-2xl font-bold text-white font-heading">Anthony Ferraro</h3>
               <p className="text-sm uppercase tracking-widest text-white/50 font-semibold mb-4">Founder / Director</p>
               <p className="text-white/60 text-base max-w-[300px] font-light leading-relaxed">
-                Anthony established Pineapple Inc. Studios with a vision to redefine property media. His leadership turns ideas into impactful visual narratives.
+                Recognizing a gap in the market, Anthony built Pineapple Inc. to deliver high-end creative work with speed, intent, and real impact. By bringing the right talent together, he created a sharper, faster brand focused entirely on quality, experience, and execution.
               </p>
             </div>
 
